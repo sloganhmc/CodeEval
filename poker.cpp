@@ -4,7 +4,8 @@ Author: Sheldon Logan
 Pokers Hands
 Description:
 
-In the card game poker, a hand consists of five cards and are ranked, from lowest to highest, in the following way: 
+In the card game poker, a hand consists of five cards and are ranked, from lowest to 
+highest, in the following way: 
 
 High Card: Highest value card. 
 One Pair: Two cards of the same value. 
@@ -19,10 +20,14 @@ Royal Flush: Ten, Jack, Queen, King, Ace, in same suit.
 The cards are valued in the order: 
 2, 3, 4, 5, 6, 7, 8, 9, Ten, Jack, Queen, King, Ace. 
 
-If two players have the same ranked hands then the rank made up of the highest value wins; for example, a pair of eights beats a pair of fives. But if two ranks tie, for example, both players have a pair of queens, then highest cards in each hand are compared; if the highest cards tie then the next highest cards are compared, and so on. 
+If two players have the same ranked hands then the rank made up of the highest value 
+wins; for example, a pair of eights beats a pair of fives. But if two ranks tie, 
+for example, both players have a pair of queens, then highest cards in each hand are 
+compared; if the highest cards tie then the next highest cards are compared, and so on. 
 Input sample:
 
-Your program should accept as its first argument a path to a filename. Each line in this file contains 2 hands (left and right). Cadrs and hands are separated by space. E.g.
+Your program should accept as its first argument a path to a filename. Each line in this 
+file contains 2 hands (left and right). Cadrs and hands are separated by space. E.g.
 
 6D 7H AH 7S QC 6H 2D TD JD AS
 JH 5D 7H TC JS JD JC TS 5S 7S

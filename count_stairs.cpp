@@ -3,11 +3,13 @@ Author: Sheldon Logan
 Climbing Stairs (uses a recursive algorithm)
 Description:
 
-You are climbing a stair case. It takes n steps to reach to the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+You are climbing a stair case. It takes n steps to reach to the top. Each time you can 
+either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
 Input sample:
 
-Your program should accept as its first argument a path to a filename. Each line in this file contains a positive integer which is the total number of stairs. e.g.
+Your program should accept as its first argument a path to a filename. Each line in 
+this file contains a positive integer which is the total number of stairs. e.g.
 
 10
 20

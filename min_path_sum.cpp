@@ -2,11 +2,15 @@
 Find Min Path Sum
 Description:
 
-You are given an n*n matrix of integers. You can move only right and down. Calculate the minimal path sum from the top left to the bottom right
+You are given an n*n matrix of integers. You can move only right and down. 
+Calculate the minimal path sum from the top left to the bottom right
 
 Input sample:
 
-Your program should accept as its first argument a path to a filename. The first line will have the value of n(the size of the square matrix). This will be followed by n rows of the matrix. (Integers in these rows will be comma delimited). After the n rows, the pattern repeats. e.g.
+Your program should accept as its first argument a path to a filename. The first line 
+will have the value of n(the size of the square matrix). This will be followed by n 
+rows of the matrix. (Integers in these rows will be comma delimited). After the n rows, 
+the pattern repeats. e.g.
 
 2
 4,6

@@ -6,16 +6,19 @@ String Permutations  Share on LinkedIn
 
 Description:
 
-Write a program to print out all the permutations of a string in alphabetical order.
+Write a program to print out all the permutations of a string in
+alphabetical order.
 
 Input sample:
 
-The first argument will be a text file containing an input string, one per line. e.g. 
+The first argument will be a text file containing an input string,
+one per line. e.g. 
 
 hat
 Output sample:
 
-Print to stdout, permutations of the string, comma separated, in alphabetical order.
+Print to stdout, permutations of the string, comma separated,
+in alphabetical order.
 e.g.
 
 aht,ath,hat,hta,tah,tha
